@@ -38,12 +38,12 @@ h1, p, button {
     color: var(--branco);
 }
 
-P {
+.seconds > p {
     font-size: 30px;
     font-weight: 600;
 }
 
-h1 {
+.seconds > h1 {
     font-size: 15px;
     font-weight: 400;
 }
