@@ -81,3 +81,11 @@ Discord: https://discord.gg/yvYXhGj <br>
 Linkedin: https://www.linkedin.com/company/devchallenge/<br>
 Twitter: https://twitter.com/dev_challenge<br>
 Instagram: https://www.instagram.com/devchallenge/<br>
+
+---
+# My Solutions :tada: 
+## Desktop
+![desktop](design/myDesktop.PNG)
+
+## Mobile
+![mobile](design/myMobile.PNG)
