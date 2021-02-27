@@ -1,6 +1,30 @@
+/* RESET CSS */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
+    overflow: hidden;
+}
+
+/* COLORS */
+:root {
+    --preto: #0C0B0B;
+    --cinza: #0F0E0E;
+    --branco: #B7B7B7;
+    --verde: #046313;
+    --azul: #044A7D;
+    --amarelo: #725200;
+}
+
+/* STYLE */
+.wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 800px;
+    height: 400px;
+    transform: translate(-50%, -50%);
+    border-radius: 8px;
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
 }
