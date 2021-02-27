@@ -38,3 +38,47 @@ h1, p, button {
     color: var(--branco);
 }
 
+P {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    background: #252424;
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    left: 12%;
+    top: 8%;
+}
+
+.first {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.second {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+button {
+    background: #252424;
+    border-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 8px;
+    width: 80px;
+    cursor: pointer;
+}
